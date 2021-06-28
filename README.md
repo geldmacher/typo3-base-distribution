@@ -1,2 +1,2 @@
-# typo3-base-distribution
-TYPO3 Cmposer Base Distribution for Mittwald Hosting 
+# TYPO3 CMS Base Distribution
+TYPO3 Composer Base Distribution for Mittwald Hosting Accounts
