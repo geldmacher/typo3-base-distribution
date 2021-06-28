@@ -1,0 +1,39 @@
+{
+	"name": "mittwald/typo3-base-distribution",
+	"description" : "Mittwald TYPO3 CMS Base Distribution",
+	"license": "GPL-2.0-or-later",
+	"type": "project",
+	"config": {
+		"platform": {
+			"php": "^7.4"
+		},
+		"sort-packages": true
+	},
+	"require": {
+		"typo3/cms-backend": "self.version",
+		"typo3/cms-belog": "self.version",
+		"typo3/cms-beuser": "self.version",
+		"typo3/cms-core": "self.version",
+		"typo3/cms-dashboard": "self.version",
+		"typo3/cms-extbase": "self.version",
+		"typo3/cms-extensionmanager": "self.version",
+		"typo3/cms-felogin": "self.version",
+		"typo3/cms-filelist": "self.version",
+		"typo3/cms-fluid": "self.version",
+		"typo3/cms-fluid-styled-content": "self.version",
+		"typo3/cms-form": "self.version",
+		"typo3/cms-frontend": "self.version",
+		"typo3/cms-impexp": "self.version",
+		"typo3/cms-info": "self.version",
+		"typo3/cms-install": "self.version",
+		"typo3/cms-recordlist": "self.version",
+		"typo3/cms-rte-ckeditor": "self.version",
+		"typo3/cms-seo": "self.version",
+		"typo3/cms-setup": "self.version",
+		"typo3/cms-sys-note": "self.version",
+		"typo3/cms-t3editor": "self.version",
+		"typo3/cms-tstemplate": "self.version",
+		"typo3/cms-viewpage": "self.version",
+    "helhum/typo3-console": "^6.5"
+	}
+}
